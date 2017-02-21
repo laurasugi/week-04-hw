@@ -1,4 +1,9 @@
 <h1>{Readme}</h1>
+<ul>
+<li><a href="index04.html">Index</a></li>
+<li><a href="definitions.html">Definitions</a></li>
+</ul>
+
 
   
   <p>
