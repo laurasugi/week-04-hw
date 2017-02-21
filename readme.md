@@ -1,19 +1,23 @@
 <h1>{Readme}</h1>
 
+  
   <p>
-    <b><h5>Website build: </h5></b>
+  <b><h5>Website build: </h5></b>
+     <ul> 
+     <li>While building this website, I found that I was beginning
+     to enjoy the process much more.  Beginning to memorize
+     semantic and structural HTML was very helful.  I took
+     another student's advice posted on the issues page and
+     put a little sticky note with frequently used tags on
+     it which greatly helped with getting familiar with them.
+     I actually didn't experience any issues with the website
+     build, it all went very smoothly which was a welcome
+     departure from the frusturation i've felt with the last
+     few assignments.</li>
+     </ul>
 
-      While building this website, I found that I was beginning
-      to enjoy the process much more.  Beginning to memorize
-      semantic and structural HTML was very helful.  I took
-      another student's advice posted on the issues page and
-      put a little sticky note with frequently used tags on
-      it which greatly helped with getting familiar with them.
-      I actually didn't experience any issues with the website
-      build, it all went very smoothly which was a welcome
-      departure from the frusturation i've felt with the last
-      few assignments.
 </p>
+
 
 <p>
     <b><h5>Wayback machine:</h5></b>
@@ -44,3 +48,4 @@
             The html code is basically the same today as it was
             in 2004.
           </li>
+</ul>
