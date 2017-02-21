@@ -47,5 +47,4 @@
             the design elements of her website for over a decade.
             The html code is basically the same today as it was
             in 2004.
-          </li>
-</ul>
+          
